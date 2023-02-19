@@ -1,0 +1,20 @@
+*{
+  
+  margin: 0;
+  padding: 0;
+}
+body
+{
+    background-image: url(pro1.jpg);
+    background-position: center;
+    background-size: cover;
+    margin: 40px;
+}
+actionneeraj{
+    width: 800px;
+    background-color: rgb(red, green, blue);
+    margin: auto;
+    color: #fff;
+    padding: 10px 0px 10px 0px;
+    text-align: center;
+}
